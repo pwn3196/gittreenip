@@ -1,0 +1,1 @@
+tämä on license osta minulta
