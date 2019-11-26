@@ -1,3 +1,14 @@
-#LUE MUT
+GIT-TREENI
 
-Tämä on komea website, osta koodi multa, 6900 euroa.
+Yleistä
+
+Tämä repository on Gitin harjoittelua varten. Tehtävässä on käyty lävitse esimerkiksi
+• Gitin peruskäyttö
+• Branchit
+• Konfliktit
+
+Osoitteet
+
+Repositoryn osoite: https://github.com/pwn3196/gittreenip.git
+Repository voidaan kloonata komennolla
+https://github.com/pwn3196/gittreenip.git
